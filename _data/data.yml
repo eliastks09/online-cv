@@ -38,8 +38,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a Cypriot student and I am studying at the Ionian University. Εvery academic year at
- university I would like to gain more knowledge.
+      I am a Cypriot student and I am studying at the Ionian University. Εvery academic year at university I would like to gain more knowledge.
 education:
     - degree: Department of informatics
       university: Ionian University
@@ -50,7 +49,7 @@ experiences:
       time:
       company: 
       details: |
- I do not have experience yet but I would like to get as many as I can.
+        I do not have experience yet but I would like to get as many as I can.
    
 
 skills:
